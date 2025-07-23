@@ -1,0 +1,14 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Rust build files
+target/
+
+# Solana deploy files
+/.solana/
+
+# Node
+node_modules/
